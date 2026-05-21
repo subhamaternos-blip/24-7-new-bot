@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "IamBott",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "subhamgupta08.aternos.me",
+    "port": 59480,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,20 +20,21 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "SoloPlayz1"
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": true,
+      "jump": true,
+      "rotate": true,
+      "swing-arm": true
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a regular player"
       ]
     },
     "chat-log": true,
