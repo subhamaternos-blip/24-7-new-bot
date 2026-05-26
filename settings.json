@@ -28,12 +28,13 @@
       "jump": true,
       "rotate": true,
       "swing-arm": true,
+      "walk": true,
       "interval": 30000
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 60,
       "messages": [
         "I'm a regular player"
       ]
