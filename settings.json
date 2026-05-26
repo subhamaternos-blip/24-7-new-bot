@@ -27,7 +27,8 @@
       "sneak": true,
       "jump": true,
       "rotate": true,
-      "swing-arm": true
+      "swing-arm": true,
+      "interval": 30000
     },
     "chat-messages": {
       "enabled": true,
