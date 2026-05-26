@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "IamBott",
+    "username": "RockyPlayzX",
     "password": "",
     "type": "offline"
   },
@@ -21,18 +21,20 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": false,
+      "sneak": true,
       "jump": true,
       "rotate": true,
       "swing-arm": true,
-      "interval": 5000
+      "interval": 3000
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 20,
       "messages": [
-        "I'm a regular player"
+        "I'm a regular player",
+        "Bro i will play the game everytime",
+        "My owner is OX_Gaming"
       ]
     },
     "chat-log": true,
